@@ -26,9 +26,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubsercontent.com/thiago-ribeiro04/thiago-ribeiro04/output/github-contribution-grid-snake-dark.svg"> 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubsercontent.com/thiago-ribeiro04/thiago-ribeiro04/output/github-contribution-grid-snake.svg">
-  <img alt= "github contribution grid snake animation" srcset="https://raw.githubsercontent.com/thiago-ribeiro04/thiago-ribeiro04/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiago-ribeiro04/thiago-ribeiro04/output/github-contribution-grid-snake-dark.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiago-ribeiro04/thiago-ribeiro04/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiago-ribeiro04/thiago-ribeiro04/output/github-contribution-grid-snake.svg">
 <picture>
 <br><br>
 
