@@ -1,4 +1,4 @@
-## Olá! Eu sou o Thiago Ribeiro 04
+## Olá! Eu sou o Thiago Ribeiro 
 
 - 🔭 Hoje trabalho com back end 
 - 🌱 Estudando C# 
