@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Thiago Ribeiro 
 
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Unopar-Anhanguera.
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Unopar.
 Me interesso tanto por back-end quanto por front, e minhas principais linguagens são C# e Python. Eu estuo e me atualizo na área da tecnologia constantemente, pois busco a evoluir e aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
 <div style="display: inline_block"><br>
