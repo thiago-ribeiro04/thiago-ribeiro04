@@ -25,6 +25,14 @@
    <a href="https://web.whatsapp.com/in/-45875016a" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubsercontent.com/thiago-ribeiro04/thiago-ribeiro04/output/github-contribution-grid-snake-dark.svg"> 
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubsercontent.com/thiago-ribeiro04/thiago-ribeiro04/output/github-contribution-grid-snake.svg">
+  <img alt= "github contribution grid snake animation" srcset="https://raw.githubsercontent.com/thiago-ribeiro04/thiago-ribeiro04/output/github-contribution-grid-snake.svg">
+<picture>
+<br><br>
+   
+
 
 
 
