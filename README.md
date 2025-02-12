@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Thiago Ribeiro 
 
-- 🔭 Hoje trabalho com back end 
+- 🔭  Hoje trabalho com back end 
 - 🌱 Estudando C# 
 - 😄 Pronouns: ele/dele
 
